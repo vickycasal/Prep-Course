@@ -1,0 +1,21 @@
+h1{
+    color:blueviolet;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600 px;
+    width: 500 px;
+    background-color: azure;
+    padding: 50px;
+    border: 10px;
+    border-color: antiquewhite;
+    border-style: dotted;
+}
+
+#spanId{
+    font-size: 18px;
+}
